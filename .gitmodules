@@ -1,0 +1,3 @@
+[submodule "Mern-Chat-Backend"]
+	path = Mern-Chat-Backend
+	url = https://github.com/Abhikgupta101/Mern-Chat-Backend
